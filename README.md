@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Onur Selim Kaya 👋  
 
-<!--
-**onurselimkaya/onurselimkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT & Business student at Fontys University of Applied Sciences  
+📊 Interested in Data Science, Analytics, and Business Process Automation  
+💡 Passionate about learning new technologies and applying them to solve real-world problems  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Project Intigo** – Power Apps prototype to improve scheduling & invoicing  
+- **Project for Plainwater** – Power BI, SQL & R solution for Like-for-Like store analysis  
+- **ASML AP Automation** – Power Apps & Power Automate solution for invoice processing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- SQL, Python (Pandas), R  
+- Power BI, Power Apps, Power Automate  
+- Data Modeling, Dashboarding, Process Automation  
+
+## 🌍 Languages
+- Turkish (Native), English (Professional), Dutch (Basic)  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/onurselimkaya/)
